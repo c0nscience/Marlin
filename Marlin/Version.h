@@ -28,7 +28,11 @@
 /**
  * Marlin release version identifier
  */
+<<<<<<< HEAD
 //#define SHORT_BUILD_VERSION "2.0.6.1"
+=======
+#define SHORT_BUILD_VERSION "2.0.6"
+>>>>>>> 66a795d54... initial working config with autohome for prototype
 
 /**
  * Verbose version identifier which should contain a reference to the location
